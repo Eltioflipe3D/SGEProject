@@ -9,9 +9,9 @@ require_once('api_utils.php');
 
 class Conexion {
 
-    const DB_HOST = 'localhost';
-    const DB_USERNAME = '';
-    const DB_PASSWORD = ''; 
+    const DB_HOST = '143.47.33.82';
+    const DB_USERNAME = 'jaime';
+    const DB_PASSWORD = 'jaime1234'; 
     const DB_NAME = '';
     const DB_PORT = '3306';
 
